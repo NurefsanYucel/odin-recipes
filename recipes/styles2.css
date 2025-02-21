@@ -14,9 +14,12 @@ h1 {
 
 h3 {
    color: lightgreen; 
+   max-width: 150px;
+   padding-left: 75px;
+   padding-right: 75px;
    border-style: double;
    border-color: pink;
-   padding-left: 5px;
+   border-width: 3px;
 }
 
 img {
